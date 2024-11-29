@@ -1,0 +1,3 @@
+Item: Pineapple | Quantity Remain: 10
+Item: Watermelon | Quantity Remain: 5
+Item: Error Row | Quantity Remain: 0
