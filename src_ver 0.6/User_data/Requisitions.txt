@@ -1,0 +1,52 @@
+Item ID,Item,Price per Unit (RM),Total Sales (RM)
+I002,Washing Machine,30,800
+I003,Microwave Oven,40,300
+I004,Vacuum Cleaner,25,450
+I005,Air Conditioner,20,1500
+I006,Toaster,15,150
+I008,Food Processor,35,500
+I010,Water Purifier,45,900
+I014,Sandwich Maker,25,180
+I015,Electric Cooker,40,600
+I021,LED TV,20,3000
+I022,Smartphone,35,2000
+I023,Laptop,15,4500
+I024,Tablet,25,2500
+I026,Gaming Console,30,1500
+I031,Camera,40,4000
+I033,Printer,45,1200
+I034,Scanner,35,1500
+I039,Switch,35,700
+I042,Monitor,20,2000
+I046,Electric Heater,25,1500
+I047,Portable AC,15,2500
+I048,Dehumidifier,35,2000
+I049,Air Purifier,45,1800
+I051,Smart Thermostat,30,1500
+I052,Robot Vacuum,20,2500
+I053,Electric Grill,40,1200
+I054,Dishwasher,10,4000
+I055,Water Dispenser,15,3000
+I056,Electric Scooter,25,5000
+I058,Electric Bike,10,7000
+I059,Treadmill,15,6000
+I060,Elliptical Trainer,20,5500
+I064,Exercise Bike,30,4000
+I065,Smart Doorbell,45,1000
+I070,Smart Lock,25,1500
+I073,Cat Tree,40,1000
+I074,Fish Tank,20,3000
+I075,Bird Cage,35,1500
+I076,Electric Blanket,15,2000
+I081,Sewing Machine,30,3500
+I082,3D Printer,15,7000
+I083,VR Headset,20,5000
+I084,Drone,10,10000
+I085,Electric Chainsaw,25,4500
+I088,Generator,20,12000
+I089,Lawn Mower,15,5000
+I090,Trimmer,25,1500
+I092,Wheelbarrow,40,1500
+I093,Pressure Washer,30,4000
+I094,Electric Saw,35,2000
+I095,Wood Chipper,10,7000
